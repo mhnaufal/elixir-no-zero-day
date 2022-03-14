@@ -31,3 +31,8 @@ _TODO_
 - Basic type
 - Different between **.exs** and **.ex** file in Elixir [HERE](https://stackoverflow.com/questions/36292620/elixir-when-to-use-ex-and-when-exs-files)
 - **.ex** get compiled while **.exs** for interpreted
+
+### 📅 Day 2 ✔️ Data type
+
+- In Elixir there is a data type called Atom or in other programming language called Symbol
+- Atom represent a constant with the value same to the atom's name
