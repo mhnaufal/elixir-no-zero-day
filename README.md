@@ -8,6 +8,12 @@ Run the Elixir code
 elixir simple.exs
 ```
 
+or
+
+```elixir
+elixir simple.ex
+```
+
 #### Sources
 
 - [Elixir Lang](https://elixir-lang.org/getting-started/introduction.html#interactive-mode)
@@ -18,9 +24,10 @@ elixir simple.exs
 
 _TODO_
 
-### 📅 Day 1 ✔️ Basic
+### 📅 Day 1 ✔️ Basic Elixir
 
 - Print in Elixir
 - Run elixir code
 - Basic type
-- Different between **.exs** and **.ex** file in Elixir
+- Different between **.exs** and **.ex** file in Elixir [HERE](https://stackoverflow.com/questions/36292620/elixir-when-to-use-ex-and-when-exs-files)
+- **.ex** get compiled while **.exs** for interpreted
