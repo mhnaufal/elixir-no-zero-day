@@ -37,9 +37,15 @@ _TODO_
 - In Elixir there is a data type called Atom or in other programming language called Symbol
 - Atom represent a constant with the value same to the atom's name
 
-### 📅 Day 3 ✔️List 
+### 📅 Day 3 ✔️List
 
 - Lists are collection of values which may include multiple types
 - Lists may also inlcude non-unique values
 - Lists are immuatable by default
 - Elixir list implemented as linked lists and it's blazingly fast
+
+### 📅 Day 4 ✔️Tuple
+
+- Elixir use curly brackets {} for defining a tuples
+- Tuples are similiar to lists, but are stored contigously in memory so it makes accessing their length/indexing really fast but expensive for modification. When adding a new value, a new tuple must be created
+- Tuples are immutable by default
