@@ -49,3 +49,13 @@ _TODO_
 - Elixir use curly brackets {} for defining a tuples
 - Tuples are similiar to lists, but are stored contigously in memory so it makes accessing their length/indexing really fast but expensive for modification. When adding a new value, a new tuple must be created
 - Tuples are immutable by default
+
+### 📅 Day 5 ✔️ Operation
+
+- The reason we can compare different data types is pragmatism. Sorting algorithms don’t need to worry about different data types in order to sort. The sorting order, from lower to higher
+- _number, atom, reference, function, port, pid, tuple, map, list, bitstring_
+
+### 📅 Day 6 ✔️ Match Operator
+
+- In Elixir '=' called as match operator NOT just an assigment operator
+- We can use it for destructuring, pattern mathing, and there is also pin operator
