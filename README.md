@@ -64,3 +64,11 @@ _TODO_
 
 - The match operator performs assignment when the left side of the match includes a variable. In some cases this variable __rebinding__ behavior is undesirable
 - ^ or pin operator, used to if we don't want to rebound a variable
+
+### 📅 Day 8 ✔️ Conditional (if unless)
+
+- In Elixir there's some conditional keyword that can be use for creating a conditional statement
+- __if-unless__ best if only need for checking one condition
+- They define as macros not language construct
+- __falsy__ in Elixir only for _nil_ and _false_
+- No _else if_ or _elif_
