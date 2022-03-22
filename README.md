@@ -59,3 +59,8 @@ _TODO_
 
 - In Elixir '=' called as match operator NOT just an assigment operator
 - We can use it for destructuring, pattern mathing, and there is also pin operator
+
+### 📅 Day 7 ✔️ Pin Operator
+
+- The match operator performs assignment when the left side of the match includes a variable. In some cases this variable __rebinding__ behavior is undesirable
+- ^ or pin operator, used to if we don't want to rebound a variable
