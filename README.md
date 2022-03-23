@@ -72,3 +72,9 @@ _TODO_
 - They define as macros not language construct
 - __falsy__ in Elixir only for _nil_ and _false_
 - No _else if_ or _elif_
+
+### 📅 Day 9 ✔️ Conditional (case)
+
+- __case__ used to compare a value againt many patterns until find that match
+- Similiar to 'match' in Rust
+- Additional conditionals clause using Guard
