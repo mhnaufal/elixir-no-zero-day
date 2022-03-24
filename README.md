@@ -78,3 +78,7 @@ _TODO_
 - __case__ used to compare a value againt many patterns until find that match
 - Similiar to 'match' in Rust
 - Additional conditionals clause using Guard
+
+### 📅 Day 10 ✔️ Conditional (cond)
+
+- Used when we need to match condition
