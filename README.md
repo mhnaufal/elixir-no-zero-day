@@ -82,3 +82,9 @@ _TODO_
 ### 📅 Day 10 ✔️ Conditional (cond)
 
 - Used when we need to match condition
+
+### 📅 Day 11 ✔️ Function (Anonymous Function)
+
+- Functions are first class citizen in Elixir
+- Use __(.)__ to call a function
+- Use __&__ symbol for shorthand and the parameters
