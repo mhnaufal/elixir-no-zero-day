@@ -62,20 +62,20 @@ _TODO_
 
 ### 📅 Day 7 ✔️ Pin Operator
 
-- The match operator performs assignment when the left side of the match includes a variable. In some cases this variable __rebinding__ behavior is undesirable
+- The match operator performs assignment when the left side of the match includes a variable. In some cases this variable **rebinding** behavior is undesirable
 - ^ or pin operator, used to if we don't want to rebound a variable
 
 ### 📅 Day 8 ✔️ Conditional (if unless)
 
 - In Elixir there's some conditional keyword that can be use for creating a conditional statement
-- __if-unless__ best if only need for checking one condition
+- **if-unless** best if only need for checking one condition
 - They define as macros not language construct
-- __falsy__ in Elixir only for _nil_ and _false_
+- **falsy** in Elixir only for _nil_ and _false_
 - No _else if_ or _elif_
 
 ### 📅 Day 9 ✔️ Conditional (case)
 
-- __case__ used to compare a value againt many patterns until find that match
+- **case** used to compare a value againt many patterns until find that match
 - Similiar to 'match' in Rust
 - Additional conditionals clause using Guard
 
@@ -86,5 +86,10 @@ _TODO_
 ### 📅 Day 11 ✔️ Function (Anonymous Function)
 
 - Functions are first class citizen in Elixir
-- Use __(.)__ to call a function
-- Use __&__ symbol for shorthand and the parameters
+- Use **(.)** to call a function
+- Use **&** symbol for shorthand and the parameters
+
+### 📅 Day 12 ✔️ Function (Pattern Matching)
+
+- Function as a pattern matching can also be use in a variable
+- In term of calling function, it's the same
