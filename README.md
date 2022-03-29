@@ -93,3 +93,8 @@ _TODO_
 
 - Function as a pattern matching can also be use in a variable
 - In term of calling function, it's the same
+
+### 📅 Day 13 ✔️ Function (Named Function)
+
+- We use **def** keyword to make named function
+- **defp** for creating a private function inside a module
