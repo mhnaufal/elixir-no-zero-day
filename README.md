@@ -98,3 +98,8 @@ _TODO_
 
 - We use **def** keyword to make named function
 - **defp** for creating a private function inside a module
+
+### 📅 Day 14 ✔️ Function (Arity Arguments)
+
+- Named function can be combine with arity (number of arguments)
+- Looks like method override in OOP
