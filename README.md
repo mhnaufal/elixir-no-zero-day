@@ -103,3 +103,7 @@ _TODO_
 
 - Named function can be combine with arity (number of arguments)
 - Looks like method override in OOP
+
+### 📅 Day 15 ✔️ Function (Guards)
+
+- Guards in named function
