@@ -107,3 +107,8 @@ _TODO_
 ### 📅 Day 15 ✔️ Function (Guards)
 
 - Guards in named function
+
+### 📅 Day 16 ✔️ Function (Default Arguments)
+
+- Function can be provided with default arguments like in other programming languages
+- Use the `argement \\ default_value` syntax
