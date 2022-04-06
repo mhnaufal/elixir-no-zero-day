@@ -113,8 +113,12 @@ _TODO_
 - Function can be provided with default arguments like in other programming languages
 - Use the `argement \\ default_value` syntax
 
-### 📅 Day 17 ✔️ Pipe Operators
+### 📅 Day 17 ✔️ Pipe Operator
 
 - The purpose of this pipe operator is to simplyfy the process of making a multiple calling to a function
 - Instead of calling functions multiple times like `func1(func2(func3()))` we use `func1 |> func2 |> func3`
 - Symbol used **|>**
+
+### 📅 Day 18 ✔️ Module Attributes
+
+- Use the **@** symbol to create a constant inside `defmodule`
