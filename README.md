@@ -121,4 +121,9 @@ _TODO_
 
 ### 📅 Day 18 ✔️ Module Attributes
 
-- Use the **@** symbol to create a constant inside `defmodule`
+- Use the **@** symbol to create a constant inside `defmodule`, commonly known as Module Attribute
+
+### 📅 Day 19 ✔️ Struct
+
+- Must be defined within a module
+- Use **defstruct** keyword to create it
