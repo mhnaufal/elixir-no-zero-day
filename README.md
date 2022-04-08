@@ -127,3 +127,7 @@ _TODO_
 
 - Must be defined within a module
 - Use **defstruct** keyword to create it
+
+### 📅 Day 20 ✔️ Alias
+
+- Alias can be provided in module to help developer called other method easily
