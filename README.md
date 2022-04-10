@@ -131,3 +131,8 @@ _TODO_
 ### 📅 Day 20 ✔️ Alias
 
 - Alias can be provided in module to help developer called other method easily
+
+### 📅 Day 21 ✔️ Import
+
+- **import** used to importing functions and macros from a module
+- Use **only** or **except** alongside with import to only importing a certain functions
