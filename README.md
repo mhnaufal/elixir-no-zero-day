@@ -136,3 +136,7 @@ _TODO_
 
 - **import** used to importing functions and macros from a module
 - Use **only** or **except** alongside with import to only importing a certain functions
+
+### 📅 Day 22 ❌ Use
+
+- 
