@@ -139,4 +139,11 @@ _TODO_
 
 ### 📅 Day 22 ❌ Use
 
-- 
+-
+
+### 📅 Day 23 ✔️ Mix
+
+- It's like Gems in Ruby or artisan in Laravel
+- **mix new example** to create a new project called example
+- **mix compile** to compile a project
+- **mix deps.get** to download dependencies
